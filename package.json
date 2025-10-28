@@ -1,0 +1,25 @@
+{
+  "name": "apple-ios-26-monaco-frontend",
+  "version": "1.0.0",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanShermanEID/apple-ios-26-monaco-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanShermanEID/apple-ios-26-monaco-frontend/issues"
+  },
+  "homepage": "https://github.com/JonathanShermanEID/apple-ios-26-monaco-frontend#readme",
+  "description": "",
+  "dependencies": {
+    "@capacitor/android": "^7.4.4",
+    "@capacitor/cli": "^7.4.4",
+    "@capacitor/core": "^7.4.4"
+  }
+}

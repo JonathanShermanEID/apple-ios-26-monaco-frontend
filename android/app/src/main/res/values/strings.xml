@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Apple iOS 26 Monaco Edition</string>
+    <string name="title_activity_main">Apple iOS 26 Monaco Edition</string>
+    <string name="package_name">com.jonathansherman.ios26monaco</string>
+    <string name="custom_url_scheme">com.jonathansherman.ios26monaco</string>
+</resources>
